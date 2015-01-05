@@ -1,0 +1,51 @@
+//
+// Prefix header for all source files of the 'youxin' target in the 'youxin' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "SVProgressHUD.h"
+    #import "DataUtils.h"
+#endif
+
+
+
+#define DEBUG_BY_LOCAL_INFO 1
+
+#define STATUS_CONFIRMED @"已确认"
+#define STATUS_ABANDEN @"放弃预约"
+#define STATUS_UNTHROUGH_CALL @"电话未通"
+#define STATUS_DEFANUT @"未处理"
+
+#define HOME_URL @"http://ios.uncrm.cn/"
+
+#define REQUEST_FIRST 0
+#define REQUEST_NO1 1
+#define REQUEST_NEXT 2
+#define REQUEST_CONFIRM 3
+#define REQUEST_IGNORE_UNCALLED 4
+#define REQUEST_IGNORE_ABANEN 5
+
+
+#define DELAY_SEC 0.5
+
+
+#define CHART_FRAME CGRectMake(70, 20, 180, 180)
+
+#define DATA_TITLE_FRAME CGRectMake(0,44, 320, 30)
+
+
+#import "IOS7StatusBarBlackView.h"
+#define isIOS7 ([[[UIDevice currentDevice] systemVersion] floatValue] >= 7)
+#define iOS7StatusBarHight ([[[UIDevice currentDevice] systemVersion] floatValue] >= 7?20:0)
+#define iOS7StatusBar [IOS7StatusBarBlackView StatusBarBlackVIew]
+
+//版本更新使用
+#define APP_URL @"http://itunes.apple.com/lookup?id=725399116"

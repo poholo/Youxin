@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MMExampleSideDrawerViewController downloadComplete:]:MMExampleSideDrawerViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_usrtype">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MMExampleSideDrawerViewController viewDidLoad]:MMExampleSideDrawerViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_usrtype">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

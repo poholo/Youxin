@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[WFWeekViewController refreshFrameData]:WFWeekViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[WXAllViewController manStartTimeAndEndTime]:WXAllViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_fromYear">
+            </PersistentString>
+            <PersistentString
+               value = "_fromDay">
+            </PersistentString>
+            <PersistentString
+               value = "_fromMonth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MMExampleSideDrawerViewController showMontionInfo:]:MMExampleSideDrawerViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_montionWaitSum">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MMExampleSideDrawerViewController usrtype]:MMExampleSideDrawerViewController.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "_usrtype">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MMExampleSideDrawerViewController viewDidLoad]:MMExampleSideDrawerViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_usrtype">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate switchViewController:]:AppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CarTypeMonthViewController manBeforMothData]:CarTypeMonthViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_currentMonth">
+            </PersistentString>
+            <PersistentString
+               value = "_currentYear">
+            </PersistentString>
+            <PersistentString
+               value = "currentMoth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MAWAllViewController downloadComplete:]:MAWAllViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WFMonthViewController refreshFrameData]:WFMonthViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[_xArr count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__75-[MMExampleLeftSideDrawerViewController tableView:didSelectRowAtIndexPath:]_block_invoke_0:MMExampleLeftSideDrawerViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "MMDrawerSectionDrawerWidth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MMExampleSideDrawerViewController viewWillAppear:]:MMExampleSideDrawerViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_usrtype">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CarTypeAllxibViewController downloadComplete:]:CarTypeAllxibViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_sum">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
