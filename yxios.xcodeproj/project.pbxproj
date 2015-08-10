@@ -1909,8 +1909,8 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Zhipeng Wang (5628M7FDM9)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Zhipeng Wang (5628M7FDM9)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: ma jiancheng (2S6969U726)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ma jiancheng (2S6969U726)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -1925,9 +1925,9 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "1DDFD37F-C29E-446C-AA64-7D8F77CDA76D";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1DDFD37F-C29E-446C-AA64-7D8F77CDA76D";
-				SDKROOT = iphoneos;
+				PROVISIONING_PROFILE = "756b85e0-3bc7-406a-9545-8a10243ba47a";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "756b85e0-3bc7-406a-9545-8a10243ba47a";
+				SDKROOT = iphoneos9.0;
 			};
 			name = Debug;
 		};
@@ -1940,8 +1940,8 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Beijing Asmed Marketing Consulting Co., Ltd. (E2Q657C3QZ)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Beijing Asmed Marketing Consulting Co., Ltd. (E2Q657C3QZ)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: ma jiancheng (2S6969U726)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ma jiancheng (2S6969U726)";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -1949,9 +1949,9 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				PROVISIONING_PROFILE = "A18C4A24-DF0A-49E4-886F-C9E76EC10223";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "A18C4A24-DF0A-49E4-886F-C9E76EC10223";
-				SDKROOT = iphoneos;
+				PROVISIONING_PROFILE = "756b85e0-3bc7-406a-9545-8a10243ba47a";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "756b85e0-3bc7-406a-9545-8a10243ba47a";
+				SDKROOT = iphoneos9.0;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -1959,16 +1959,16 @@
 		04A4EA7517DC82920018C3CB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: ma jiancheng (ZEPT73P3NU)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ma jiancheng (ZEPT73P3NU)";
 				GCC_INPUT_FILETYPE = sourcecode.c.objc;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "youxin/yxios-Prefix.pch";
 				INFOPLIST_FILE = "youxin/yxios-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = yxios;
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1DDFD37F-C29E-446C-AA64-7D8F77CDA76D";
+				PROVISIONING_PROFILE = "46c9997f-19d6-4223-86df-460487fbd3ab";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "46c9997f-19d6-4223-86df-460487fbd3ab";
 				VALIDATE_PRODUCT = NO;
 				WRAPPER_EXTENSION = app;
 			};
@@ -1977,16 +1977,16 @@
 		04A4EA7617DC82920018C3CB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: ma jiancheng (ZEPT73P3NU)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ma jiancheng (ZEPT73P3NU)";
 				GCC_INPUT_FILETYPE = sourcecode.c.objc;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "youxin/yxios-Prefix.pch";
 				INFOPLIST_FILE = "youxin/yxios-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = yxios;
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "A18C4A24-DF0A-49E4-886F-C9E76EC10223";
+				PROVISIONING_PROFILE = "46c9997f-19d6-4223-86df-460487fbd3ab";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "46c9997f-19d6-4223-86df-460487fbd3ab";
 				VALIDATE_PRODUCT = NO;
 				WRAPPER_EXTENSION = app;
 			};
